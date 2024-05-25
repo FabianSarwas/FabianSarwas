@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FabianSarwas
+- 👋 Hi, I’m Fabian
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...Web-Developmet
 - 💞️ I’m looking to collaborate on ...Web-Design
