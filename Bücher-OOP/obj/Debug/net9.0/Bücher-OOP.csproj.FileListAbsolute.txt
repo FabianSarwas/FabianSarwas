@@ -1,0 +1,4 @@
+C:\Users\tn\desktop\c#\Bücher-OOP\obj\Debug\net9.0\Bücher-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tn\desktop\c#\Bücher-OOP\obj\Debug\net9.0\Bücher-OOP.AssemblyInfoInputs.cache
+C:\Users\tn\desktop\c#\Bücher-OOP\obj\Debug\net9.0\Bücher-OOP.AssemblyInfo.cs
+C:\Users\tn\desktop\c#\Bücher-OOP\obj\Debug\net9.0\Bücher-OOP.csproj.CoreCompileInputs.cache

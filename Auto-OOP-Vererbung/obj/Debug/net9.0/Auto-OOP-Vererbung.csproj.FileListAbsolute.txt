@@ -1,0 +1,14 @@
+C:\Users\tn\Desktop\C#\Auto-OOP-Vererbung\bin\Debug\net9.0\Auto-OOP-Vererbung.exe
+C:\Users\tn\Desktop\C#\Auto-OOP-Vererbung\bin\Debug\net9.0\Auto-OOP-Vererbung.deps.json
+C:\Users\tn\Desktop\C#\Auto-OOP-Vererbung\bin\Debug\net9.0\Auto-OOP-Vererbung.runtimeconfig.json
+C:\Users\tn\Desktop\C#\Auto-OOP-Vererbung\bin\Debug\net9.0\Auto-OOP-Vererbung.dll
+C:\Users\tn\Desktop\C#\Auto-OOP-Vererbung\bin\Debug\net9.0\Auto-OOP-Vererbung.pdb
+C:\Users\tn\Desktop\C#\Auto-OOP-Vererbung\obj\Debug\net9.0\Auto-OOP-Vererbung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tn\Desktop\C#\Auto-OOP-Vererbung\obj\Debug\net9.0\Auto-OOP-Vererbung.AssemblyInfoInputs.cache
+C:\Users\tn\Desktop\C#\Auto-OOP-Vererbung\obj\Debug\net9.0\Auto-OOP-Vererbung.AssemblyInfo.cs
+C:\Users\tn\Desktop\C#\Auto-OOP-Vererbung\obj\Debug\net9.0\Auto-OOP-Vererbung.csproj.CoreCompileInputs.cache
+C:\Users\tn\Desktop\C#\Auto-OOP-Vererbung\obj\Debug\net9.0\Auto-OOP-Vererbung.dll
+C:\Users\tn\Desktop\C#\Auto-OOP-Vererbung\obj\Debug\net9.0\refint\Auto-OOP-Vererbung.dll
+C:\Users\tn\Desktop\C#\Auto-OOP-Vererbung\obj\Debug\net9.0\Auto-OOP-Vererbung.pdb
+C:\Users\tn\Desktop\C#\Auto-OOP-Vererbung\obj\Debug\net9.0\Auto-OOP-Vererbung.genruntimeconfig.cache
+C:\Users\tn\Desktop\C#\Auto-OOP-Vererbung\obj\Debug\net9.0\ref\Auto-OOP-Vererbung.dll
