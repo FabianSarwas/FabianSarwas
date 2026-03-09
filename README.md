@@ -8,9 +8,9 @@ Ich komme aus Berlin und interessiere mich besonders für Webentwicklung.
 
 ## Technologien & Interessen
 
-- **Sprachen:** C#, JavaScript, HTML, CSS
+- **Sprachen:** C#, JavaScript,SQL, HTML, CSS
 - **Themen:** 
-  - Webentwicklung (Front-End)
+  - Webentwicklung (Full-Stack)
   - Objektorientierung in C#
   - kleine Übungsprojekte & Lernprojekte
 
