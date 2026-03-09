@@ -25,7 +25,6 @@ Ich komme aus Berlin und interessiere mich besonders für Webentwicklung.
 
 ## C# Lernprojekte
 
-- [C-sharp-](https://github.com/FabianSarwas/C-sharp-) – Sammlung von OOP-Übungen
 - [Spielcharakter](https://github.com/FabianSarwas/Spielcharakter) – Spielcharakter in C# (MVC-Struktur)
 
 
