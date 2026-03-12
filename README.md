@@ -16,7 +16,7 @@ Ich komme aus Berlin und interessiere mich besonders für Webentwicklung.
 
 
 ## Ausgewählte Projekte
-- [Online-Terminbuchung] (https://github.com/FabianSarwas/Termin---Onlinebuchung) - Funktionsfähiges Programm zum buchen von Termin-Slots.
+- [Online-Terminbuchung] https://github.com/FabianSarwas/Termin---Onlinebuchung.git - Funktionsfähiges Programm zum buchen von Termin-Slots.
 - [Webshop-Stickerei](https://github.com/FabianSarwas/Webshop-Stickerei) – Demo-Webshop für handgemachte Stickereien
 - [Webshop-Schmuck](https://github.com/FabianSarwas/Webshop-Schmuck) – Teamprojekt für einen Schmuck-Webshop
 - [Quiz-App](https://github.com/FabianSarwas/Quiz-App) – API-basiertes Quiz im Browser
